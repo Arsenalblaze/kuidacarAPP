@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60853754538",
+    "project_id": "kuidacar-8b277",
+    "storage_bucket": "kuidacar-8b277.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60853754538:android:56f2c48c6b5528d31e8ed3",
+        "android_client_info": {
+          "package_name": "com.kuidacar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALx-B2oJ6IzViKnS5ona4TdSIGq4GL09Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
