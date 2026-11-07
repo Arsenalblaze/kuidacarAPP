@@ -1,0 +1,42 @@
+
+workflows:
+  kuidacar-ios:
+    name: KuidaCar iOS Build
+    max_build_duration: 120
+    instance_type: mac_mini_m2
+
+    environment:
+      node: 22
+      xcode: latest
+      cocoapods: default
+
+    scripts:
+      - name: Install dependencies
+        script: npm ci
+
+      - name: Build React and Vite
+        script: npm run build
+
+      - name: Sync Capacitor iOS
+        script: npx cap sync ios
+
+      - name: Install CocoaPods dependencies
+        script: |
+          cd ios/App
+          pod install
+
+      - name: Build unsigned iOS application
+        script: |
+          xcodebuild \
+            -workspace ios/App/App.xcworkspace \
+            -scheme App \
+            -configuration Release \
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build/ios/DerivedData \
+            CODE_SIGNING_ALLOWED=NO \
+            build
+
+    artifacts:
+      - build/ios/DerivedData/Build/Products/Release-iphoneos/*.app
+      - /tmp/xcodebuild_logs/*.log
