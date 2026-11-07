@@ -1,0 +1,26 @@
+﻿src/app/components/NotificationBell.tsx(2,30): error TS6133: 'X' is declared but its value is never read.
+src/app/components/ProviderProfileModal.tsx(1,1): error TS6133: 'useState' is declared but its value is never read.
+src/app/components/ProviderProfileModal.tsx(14,3): error TS6133: 'MapPin' is declared but its value is never read.
+src/app/components/ProviderProfileModal.tsx(16,3): error TS6133: 'X' is declared but its value is never read.
+src/app/components/RealTimeMap.tsx(194,9): error TS2322: Type 'number[]' is not assignable to type 'LatLngExpression | undefined'.
+  Type 'number[]' is not assignable to type 'LatLngTuple'.
+    Target requires 2 element(s) but source may have fewer.
+src/app/components/RealTimeMap.tsx(200,11): error TS2322: Type 'number[]' is not assignable to type '[number, number]'.
+  Target requires 2 element(s) but source may have fewer.
+src/app/context/AuthContext.tsx(61,21): error TS2345: Argument of type '{ id: string; email: string | undefined; name: any; role: any; providerType: any; vehicleModel: any; vehiclePlate: any; isOnline: any; providerLocation: any; }' is not assignable to parameter of type 'SetStateAction<User | null>'.
+  Property 'phone' is missing in type '{ id: string; email: string | undefined; name: any; role: any; providerType: any; vehicleModel: any; vehiclePlate: any; isOnline: any; providerLocation: any; }' but required in type 'User'.
+src/app/context/AuthContext.tsx(92,17): error TS2345: Argument of type '{ id: any; email: any; name: any; phone: any; role: any; providerType: any; vehicleModel: any; vehiclePlate: any; isOnline: any; providerLocation: any; location: any; } | { id: string; email: string | undefined; ... 8 more ...; location?: undefined; }' is not assignable to parameter of type 'SetStateAction<User | null>'.
+  Type '{ id: string; email: string | undefined; name: any; role: any; providerType: any; vehicleModel: any; vehiclePlate: any; isOnline: any; providerLocation: any; phone?: undefined; location?: undefined; }' is not assignable to type 'SetStateAction<User | null>'.
+    Type '{ id: string; email: string | undefined; name: any; role: any; providerType: any; vehicleModel: any; vehiclePlate: any; isOnline: any; providerLocation: any; phone?: undefined; location?: undefined; }' is not assignable to type 'User'.
+      Types of property 'email' are incompatible.
+        Type 'string | undefined' is not assignable to type 'string'.
+          Type 'undefined' is not assignable to type 'string'.
+src/app/context/AuthContext.tsx(95,34): error TS2339: Property 'error' does not exist on type '{ success: boolean; user: { id: any; email: any; name: any; phone: any; role: any; providerType: any; vehicleModel: any; vehiclePlate: any; isOnline: any; providerLocation: any; location: any; } | { id: string; ... 9 more ...; location?: undefined; }; accessToken: string; message: string; }'.
+src/app/context/AuthContext.tsx(135,34): error TS2339: Property 'error' does not exist on type '{ success: boolean; needsConfirmation: boolean; user: { id: string; email: string; name: string; role: "customer" | "provider"; providerType: string | undefined; vehicleModel: string | undefined; vehiclePlate: string | undefined; isOnline: boolean; providerLocation: null; }; accessToken: string | undefined; message:...'.
+src/app/context/AuthContext.tsx(152,40): error TS2339: Property 'updateProfile' does not exist on type 'ApiClient'.
+src/app/hooks/usePushNotifications.ts(4,11): error TS6196: 'PushSubscriptionData' is declared but never used.
+src/app/pages/MapTest.tsx(35,9): error TS6133: 'handleMapClick' is declared but its value is never read.
+src/app/pages/ServiceTracking.tsx(105,27): error TS2345: Argument of type 'Timeout' is not assignable to parameter of type 'SetStateAction<number | null>'.
+src/app/pages/TestDiagnostic.tsx(121,40): error TS2339: Property 'debugHeaders' does not exist on type 'ApiClient'.
+src/app/utils/supabase-direct.ts(28,21): error TS6133: 'tableExists' is declared but its value is never read.
+src/app/utils/supabase-direct.ts(195,15): error TS6133: 'data' is declared but its value is never read.
