@@ -1,0 +1,167 @@
+﻿npm warn "src/app/components/GoogleMap.tsx" is being parsed as a normal command line argument.
+npm warn Unknown cli config "--noEmit". This will stop working in the next major version of npm.
+node_modules/react-router/dist/development/index.d.ts(4,8): error TS1259: Module '"C:/Users/Lenovo/Desktop/Aplicativo de Assist\u00EAncia Rodovi\u00E1ria/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-router/dist/development/instrumentation-DvHY1sgY.d.ts(408,5): error TS18028: Private identifiers are only available when targeting ECMAScript 2015 and higher.
+node_modules/sonner/dist/index.d.ts(1,8): error TS1259: Module '"C:/Users/Lenovo/Desktop/Aplicativo de Assist\u00EAncia Rodovi\u00E1ria/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+src/app/components/GoogleMap.tsx(443,5): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(3,25): error TS6142: Module '../context/AuthContext' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/context/AuthContext.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(5,24): error TS6142: Module '../components/ui/button' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/ui/button.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(6,22): error TS6142: Module '../components/ui/card' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/ui/card.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(7,23): error TS6142: Module '../components/ui/input' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/ui/input.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(8,23): error TS6142: Module '../components/ui/label' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/ui/label.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(9,26): error TS6142: Module '../components/ui/textarea' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/ui/textarea.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(10,29): error TS6142: Module '../components/RealTimeMap' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/RealTimeMap.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(11,38): error TS6142: Module '../components/ProviderProfileModal' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/ProviderProfileModal.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(12,27): error TS6142: Module '../components/ChatModal' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/ChatModal.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(13,23): error TS6142: Module '../components/ui/badge' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/ui/badge.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(14,34): error TS6142: Module '../components/NotificationBell' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/src/app/components/NotificationBell.tsx', but '--jsx' is not set.
+src/app/pages/RequestService.tsx(591,5): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(593,7): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(594,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(595,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(596,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(602,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(604,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(606,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(607,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(614,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(620,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(622,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(639,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(640,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(641,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(642,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(643,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(647,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(649,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(650,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(658,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(663,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(679,7): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(682,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(683,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(684,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(685,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(694,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(698,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(699,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(700,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(703,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(704,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(708,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(709,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(725,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(726,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(727,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(728,27): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(729,27): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(733,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(734,27): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(735,27): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(740,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(741,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(742,27): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(743,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(744,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(746,27): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(747,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(748,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(751,29): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(752,31): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(753,31): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(760,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(761,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(776,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(779,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(782,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(795,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(796,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(797,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(798,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(807,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(810,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(811,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(838,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(839,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(840,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(841,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(842,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(846,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(847,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(848,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(853,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(854,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(855,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(856,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(857,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(859,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(860,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(861,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(867,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(869,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(871,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(873,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(874,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(875,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(891,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(894,27): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(897,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(923,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(927,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(941,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(943,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(944,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(945,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(949,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(959,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(962,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(964,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(973,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(974,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(989,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(990,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(993,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(994,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(995,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(996,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1004,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1012,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1013,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1017,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1018,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1023,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1031,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1032,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1035,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1037,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1065,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1066,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1067,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1069,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1070,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1071,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1072,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1075,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1076,27): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1084,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1093,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1094,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1100,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1101,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1103,23): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1118,25): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1119,27): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1125,19): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1131,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1132,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1163,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1170,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1171,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1174,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1184,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1190,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1191,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1202,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1219,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/pages/RequestService.tsx(1231,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/app/utils/api.ts(2,42): error TS6142: Module '../../../utils/supabase/info' was resolved to 'C:/Users/Lenovo/Desktop/Aplicativo de Assist├¬ncia Rodovi├íria/utils/supabase/info.tsx', but '--jsx' is not set.
