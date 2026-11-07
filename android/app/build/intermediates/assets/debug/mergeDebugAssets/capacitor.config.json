@@ -1,0 +1,8 @@
+{
+	"appId": "com.kuidacar.app",
+	"appName": "KuidaCar",
+	"webDir": "dist",
+	"ios": {
+		"handleApplicationNotifications": false
+	}
+}
