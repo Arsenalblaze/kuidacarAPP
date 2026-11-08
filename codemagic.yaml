@@ -8,7 +8,6 @@ workflows:
     environment:
       node: 22
       xcode: latest
-      cocoapods: default
 
     scripts:
       - name: Install dependencies
@@ -20,15 +19,16 @@ workflows:
       - name: Sync Capacitor iOS
         script: npx cap sync ios
 
-      - name: Install CocoaPods dependencies
+      - name: Resolve Swift Package dependencies
         script: |
-          cd ios/App
-          pod install
+          xcodebuild -resolvePackageDependencies \
+            -project ios/App/App.xcodeproj \
+            -scheme App
 
-      - name: Build unsigned iOS application
+      - name: Build iOS application
         script: |
           xcodebuild \
-            -workspace ios/App/App.xcworkspace \
+            -project ios/App/App.xcodeproj \
             -scheme App \
             -configuration Release \
             -sdk iphoneos \
