@@ -37,6 +37,18 @@ workflows:
             CODE_SIGNING_ALLOWED=NO \
             build
 
+      - name: Create unsigned IPA
+        script: |
+          mkdir -p build/ios/ipa/Payload
+
+          cp -R build/ios/DerivedData/Build/Products/Release-iphoneos/App.app \
+            build/ios/ipa/Payload/
+
+          cd build/ios/ipa
+
+          zip -r KuidaCar-unsigned.ipa Payload
+
     artifacts:
+      - build/ios/ipa/*.ipa
       - build/ios/DerivedData/Build/Products/Release-iphoneos/*.app
       - /tmp/xcodebuild_logs/*.log
